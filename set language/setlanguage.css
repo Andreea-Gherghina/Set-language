@@ -1,0 +1,32 @@
+.text-ro {
+    display: none;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h1, h2 {
+    background-color: burlywood;
+    padding: 24px;
+    text-align: center;
+    font-size: 50px;
+    box-shadow: 15px 20px  burlywood;
+    font-style: italic;
+   
+}
+
+p {
+    font-size: 30px;
+    padding-top: 52px;
+    padding-left: 32px;
+    
+}
+
+footer {
+    font-size: 24px;
+    padding-top: 6px;
+    padding-left: 24px;
+    
+
+}
